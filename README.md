@@ -35,3 +35,4 @@ Required : 
   •	You MUSR create a screengrab of your terminal and submit
 
 
+<img width="1422" alt="Screen Shot 2022-03-14 at 4 32 49 PM" src="https://user-images.githubusercontent.com/60355411/158256448-9b0c67ab-9ae0-4535-b480-9b15e97445ff.png">
